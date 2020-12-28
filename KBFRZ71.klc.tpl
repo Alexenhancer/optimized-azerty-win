@@ -1,4 +1,4 @@
-﻿KBD	KBFRZ71	"Français - AZERTY NF Z71-300"
+﻿KBD	KBFRZ71	"Français - AZERTY NF Z71-300 customAE"
 
 COPYRIGHT	"© 2019 Creative Commons"
 
@@ -50,8 +50,8 @@ LAYOUT		;an extra '@' at the end is a dead key
 
 DESCRIPTIONS
 
-0409	French - AZERTY NF Z71-300
-040c	Français - AZERTY NF Z71-300
+0409	French - AZERTY NF Z71-300 customAE
+040c	Français - AZERTY NF Z71-300 customAE
 
 LANGUAGENAMES
 
